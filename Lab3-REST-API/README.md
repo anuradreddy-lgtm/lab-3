@@ -19,6 +19,7 @@ lab-3/
 ├── books.db
 ├── .gitignore
 ├── README.md
+├── screenshots/
 └── Lab3-REST-API/
     ├── database.js
     ├── server.js
@@ -26,7 +27,8 @@ lab-3/
     ├── package-lock.json
     ├── books.db
     ├── .gitignore
-    └── README.md
+    ├── README.md
+    └── screenshots/
 ```
 
 ## Prerequisites
